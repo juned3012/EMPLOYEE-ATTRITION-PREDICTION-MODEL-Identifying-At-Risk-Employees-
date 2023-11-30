@@ -1,0 +1,528 @@
+Timestamp,Name,IT Company,Satisfaction Level,Number Of Project,Average Monthly Hours,Time Spend Company ,Work accident,Left ,Promotion Last Five years ,Department,Salary
+6/11/2023 0:06,Aarav Patel,Infosys,Low,2,157,3,No,Yes,No,sales,low
+6/11/2023 0:06,Aisha Sharma,HCL,Very High,5,262,6,No,Yes,No,sales,medium
+6/11/2023 0:06,Arjun Gupta,Tech Mahindra,Very Low,7,272,4,No,Yes,No,sales,medium
+6/11/2023 0:06,Diya Singh,Cognizant,High,5,223,5,No,Yes,No,sales,low
+6/11/2023 0:06,Ishaan Verma,Wipro,Low,2,159,3,No,Yes,No,sales,low
+6/11/2023 0:06,Jiya Reddy,TCS,Medium,2,153,3,No,Yes,No,sales,low
+6/11/2023 0:07,Kabir Malhotra,HCL,Very Low,6,247,4,No,Yes,No,sales,low
+6/11/2023 0:07,Kavya Patel,TCS,Very High,5,259,5,No,Yes,No,sales,low
+6/11/2023 0:07,Krish Kapoor,Infosys,Very High,5,224,5,No,Yes,No,sales,low
+6/11/2023 0:07,Meera Joshi,Wipro,Medium,2,142,3,No,Yes,No,sales,low
+6/11/2023 0:07,Nihar Khan,HCL Technologies,Medium,2,135,3,No,Yes,No,sales,low
+6/11/2023 0:07,Riya Kumar,Infosys,Very Low,6,305,4,No,Yes,No,sales,low
+6/11/2023 0:07,Rohan Nair,Tech Mahindra,Very High,4,234,5,No,Yes,No,sales,low
+6/11/2023 0:07,Saanvi Shah,Cognizant,Medium,2,148,3,No,Yes,No,sales,low
+6/11/2023 0:07,Shaan Choudhury,Accenture,Low,2,137,3,No,Yes,No,sales,low
+6/11/2023 0:07,Siya Bhatia,Wipro,Low,2,143,3,No,Yes,No,sales,low
+6/11/2023 0:07,Tanvi Singhania,Capgemini,Medium,2,160,3,No,Yes,No,sales,low
+6/11/2023 0:07,Ved Agarwal,IBM,High,4,255,6,No,Yes,No,sales,low
+6/11/2023 0:07,Zara Iyer,TCS,Medium,2,160,3,Yes,Yes,Yes,sales,low
+6/11/2023 0:07,Zoya Srinivasan,Oracle,High,5,262,5,No,Yes,No,sales,low
+6/11/2023 0:07,Radha Iyer,Capgemini,Very Low,6,282,4,No,Yes,No,sales,low
+6/11/2023 0:07,Arnav Singh,Wipro,Low,2,147,3,No,Yes,No,sales,low
+6/11/2023 0:07,Bhavesh Gupta,Accenture,Very Low,6,304,4,No,Yes,No,sales,low
+6/11/2023 0:07,Saanvi Khanna,HCL Technologies,Medium,2,139,3,No,Yes,No,sales,low
+6/11/2023 0:07,Tanya Sharma,TCS,Low,2,158,3,No,Yes,No,sales,low
+6/11/2023 0:07,Eeshan Sharma,Oracle,Very High,5,242,5,No,Yes,No,sales,low
+6/11/2023 0:07,Faizan Ali,IBM,Very High,4,239,5,No,Yes,No,sales,low
+6/11/2023 0:07,Gopal Singhania,Infosys,Low,2,135,3,No,Yes,No,sales,low
+6/11/2023 0:07,Harshvardhan Verma,Cognizant,Medium,2,128,3,No,Yes,No,accounting,low
+6/11/2023 0:07,Ishwar Patel,Tech Mahindra,Low,2,132,3,No,Yes,No,accounting,low
+6/11/2023 0:07,Urvashi Desai,Accenture,Very Low,6,294,4,No,Yes,No,accounting,low
+6/11/2023 0:07,Vaishali Dave,IBM,Medium,2,134,3,No,Yes,No,hr,low
+6/11/2023 0:07,Wamiqa Verma,Tech Mahindra,Low,2,145,3,No,Yes,No,hr,low
+6/11/2023 0:07,Xena Shetty,Cognizant,Medium,2,140,3,No,Yes,No,hr,low
+6/11/2023 0:07,Yamini Chakraborty,Oracle,Very High,4,246,6,No,Yes,No,hr,low
+6/11/2023 0:07,Zaina Khan,Infosys,Very Low,6,255,4,No,Yes,No,technical,low
+6/11/2023 0:07,Alisha Mathur,Cognizant,Low,2,137,3,No,Yes,No,technical,low
+6/11/2023 0:07,Bhumika Yadav,Oracle,Medium,2,126,3,No,Yes,No,technical,low
+6/11/2023 0:07,Vedant Dixit,IBM,Very Low,6,306,4,No,Yes,No,technical,low
+6/11/2023 0:07,Lavleen Kaur,Cognizant,Medium,2,152,3,No,Yes,No,technical,low
+6/11/2023 0:07,Mitali Saxena,HCL Technologies,Very High,5,269,5,No,Yes,No,technical,low
+6/11/2023 0:07,Udayan Shah,,Medium,2,158,3,No,Yes,No,technical,low
+6/11/2023 0:07,Vaibhav Sharma,Capgemini,Low,2,127,3,No,Yes,No,technical,low
+6/11/2023 0:07,Oorja Sharma,Wipro,Very Low,7,281,4,No,Yes,No,technical,low
+6/11/2023 0:07,Zaid Ali,Capgemini,Very Low,6,276,4,No,Yes,No,technical,low
+6/11/2023 0:07,Rashi Gupta,Accenture,Very High,3,182,4,No,Yes,No,technical,low
+6/11/2023 0:07,Bharat Patel,Tech Mahindra,Low,2,147,3,No,Yes,No,support,low
+6/11/2023 0:07,Chirag Sharma,Cognizant,Medium,3,273,6,No,Yes,No,support,low
+6/11/2023 0:07,Sneha Singh,Oracle,Low,2,148,3,No,Yes,No,support,low
+6/11/2023 0:07,Trisha Rastogi,Capgemini,Medium,2,147,3,No,Yes,No,support,low
+6/11/2023 0:07,Urvi Shah,Wipro,Very Low,6,152,2,No,Yes,No,support,low
+6/11/2023 0:07,Gaurang Patel,HCL Technologies,Medium,2,135,3,No,Yes,No,support,low
+6/11/2023 0:07,Hitesh Verma,,Low,2,134,3,No,Yes,No,support,low
+6/11/2023 0:07,Vrinda Dixit,HCL Technologies,Low,2,132,3,No,Yes,No,support,low
+6/11/2023 0:07,Jai Singhania,IBM,Very Low,7,307,4,No,Yes,No,support,low
+6/11/2023 0:07,Zainab Sheikh,Cognizant,Low,2,140,3,No,Yes,No,support,low
+6/11/2023 0:07,Lalit Kumar,IBM,Very Low,7,255,4,No,Yes,No,support,low
+6/11/2023 0:07,Mayank Patel,Wipro,Very Low,6,309,4,No,Yes,No,technical,low
+6/11/2023 0:07,Nikhil Gupta,TCS,Low,2,128,3,No,Yes,No,technical,low
+6/11/2023 0:07,Omkar Sharma,Infosys,Very High,4,225,5,No,Yes,No,technical,low
+6/11/2023 0:07,Pranav Verma,Cognizant,Very High,5,226,5,No,Yes,No,management,medium
+6/11/2023 0:07,Qadir Ali,TCS,Very Low,7,308,4,No,Yes,No,IT,medium
+6/11/2023 0:07,Deepika Singh,Wipro,Very Low,6,244,5,No,Yes,No,IT,medium
+6/11/2023 0:07,Satvik Singhania,Capgemini,Low,2,132,3,No,Yes,No,IT,medium
+6/11/2023 0:07,Tarun Patel,Accenture,Very Low,6,286,4,No,Yes,No,IT,medium
+6/11/2023 0:07,Utsav Shah,Oracle,Very High,6,161,4,No,Yes,No,IT,medium
+6/11/2023 0:07,Bhakti Patel,TCS,Medium,2,153,3,No,Yes,No,product_mng,medium
+6/11/2023 0:07,Chitra Iyer,Infosys,Very High,4,264,6,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Zoya Sheikh,Capgemini,High,5,223,5,Yes,Yes,No,product_mng,medium
+6/11/2023 0:08,Arnav Gupta,Wipro,Medium,2,135,3,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Farhana Khan,TCS,High,2,277,3,No,Yes,No,IT,medium
+6/11/2023 0:08,Gayatri Rao,Tech Mahindra,Very Low,5,275,4,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Dhiraj Singhania,Accenture,Medium,2,149,3,No,Yes,No,product_mng,high
+6/11/2023 0:08,Faheem Sheikh,IBM,Very Low,7,295,4,No,Yes,No,product_mng,low
+6/11/2023 0:08,Gaurav Singh,Tech Mahindra,Very Low,6,277,4,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Ojaswini Singh,Infosys,Very Low,7,306,4,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Irfan Ali,Oracle,Very Low,6,295,4,No,Yes,No,product_mng,medium
+6/11/2023 0:08,Parul Agarwal,Cognizant,Low,2,137,3,No,Yes,No,marketing,medium
+6/11/2023 0:08,Karan Verma,TCS,Medium,2,157,3,No,Yes,No,sales,low
+6/11/2023 0:08,Lokesh Patel,Infosys,Low,2,142,3,No,Yes,No,accounting,low
+6/11/2023 0:08,Manav Sharma,Capgemini,Medium,2,140,3,No,Yes,No,support,low
+6/11/2023 0:08,Eshani Patel,Wipro,Low,2,151,3,No,Yes,No,technical,low
+6/11/2023 0:08,Omkar Gupta,Tech Mahindra,High,4,139,3,No,Yes,Yes,management,low
+6/11/2023 0:08,Kavya Singh,Tech Mahindra,Very High,4,249,6,No,Yes,No,marketing,low
+6/11/2023 0:08,Qadir Ahmed,Accenture,Very Low,6,291,4,No,Yes,No,marketing,low
+6/11/2023 0:08,Rajan Verma,IBM,Very Low,6,305,4,No,Yes,No,marketing,low
+6/11/2023 0:08,Lata Verma,Oracle,Very Low,5,232,3,No,Yes,No,sales,low
+6/11/2023 0:08,Megha Mehta,Cognizant,Medium,2,132,3,No,Yes,No,sales,low
+6/11/2023 0:08,Nidhi Reddy,TCS,Low,2,130,3,No,Yes,No,sales,low
+6/11/2023 0:08,Vipul Patel,Infosys,Very Low,6,291,4,No,Yes,No,sales,low
+6/11/2023 0:08,Yogesh Gupta,Capgemini,Low,2,130,3,No,Yes,No,sales,low
+6/11/2023 0:08,Zaid Khan,Wipro,Very High,5,246,5,No,Yes,No,sales,low
+6/11/2023 0:08,Abhinav Verma,TCS,Medium,2,143,3,No,Yes,No,sales,low
+6/11/2023 0:08,Jhanvi Gupta,Tech Mahindra,Medium,2,129,3,No,Yes,No,sales,low
+6/11/2023 0:08,Kavya Nair,Accenture,Very Low,6,255,4,No,Yes,No,sales,low
+6/11/2023 0:08,Devang Patel,Wipro,Low,2,155,3,No,Yes,No,sales,low
+6/11/2023 0:08,Eklavya Singhania,Capgemini,Very Low,6,265,4,No,Yes,No,sales,low
+6/11/2023 0:08,Farhan Ahmed,IBM,Very Low,6,279,4,No,Yes,No,sales,low
+6/11/2023 0:08,Gopal Verma,Oracle,Very Low,6,284,4,No,Yes,No,sales,low
+6/11/2023 0:09,Harshvardhan Patel,TCS,Very High,5,221,6,No,Yes,No,sales,medium
+6/11/2023 0:09,Ishwar Gupta,Infosys,Low,2,154,3,No,Yes,No,sales,medium
+6/11/2023 0:09,,Capgemini,Low,2,147,3,No,Yes,No,sales,medium
+6/11/2023 0:09,Kunal Singhania,Cognizant,Medium,2,150,3,No,Yes,No,sales,medium
+6/11/2023 0:09,Lalit Verma,Oracle,Very Low,7,267,4,No,Yes,No,sales,medium
+6/11/2023 0:09,Manish Sharma,Tech Mahindra,Medium,2,158,3,No,Yes,No,sales,medium
+6/11/2023 0:09,Naman Gupta,Accenture,Very Low,7,224,5,No,Yes,No,accounting,medium
+6/11/2023 0:09,Om Prakash Singh,Oracle,Very High,4,257,5,No,Yes,No,accounting,medium
+6/11/2023 0:09,Isha Singh,Accenture,Medium,2,148,3,No,Yes,No,accounting,medium
+6/11/2023 0:09,Qasim Ali,IBM,High,3,177,4,No,Yes,No,hr,medium
+6/11/2023 0:09,Deepika Patel,Wipro,Low,2,155,3,No,Yes,No,hr,medium
+6/11/2023 0:09,Ekta Trivedi,Capgemini,Medium,2,144,3,No,Yes,No,hr,medium
+6/11/2023 0:09,Tapan Shah,Oracle,Very Low,6,289,4,No,Yes,No,hr,high
+6/11/2023 0:09,Aditi Mehta,TCS,Medium,2,160,3,No,Yes,No,technical,low
+6/11/2023 0:10,Vaibhav Gupta,Cognizant,Very High,4,258,5,No,Yes,No,technical,medium
+6/11/2023 0:10,Urvi Patel,IBM,Very High,5,234,5,No,Yes,No,technical,medium
+6/11/2023 0:10,Vrinda Sengupta,Cognizant,Low,2,137,3,No,Yes,No,technical,medium
+6/11/2023 0:10,Wafa Siddiqui,Tech Mahindra,Very High,5,263,2,No,Yes,No,technical,medium
+6/11/2023 0:10,Bharat Singh,Infosys,Very Low,6,251,4,No,Yes,No,technical,low
+6/11/2023 0:10,Chinmay Gupta,TCS,Low,2,133,3,No,Yes,No,technical,low
+6/11/2023 0:10,Dhruv Patel,Wipro,Low,2,132,3,No,Yes,No,technical,low
+6/11/2023 0:10,Eklavya Verma,TCS,Very Low,4,158,4,Yes,Yes,No,technical,low
+6/11/2023 0:10,Farhan Khan,Infosys,Low,2,135,3,No,Yes,No,technical,low
+6/11/2023 0:10,Kavya Singh,IBM,High,4,216,6,No,Yes,No,technical,low
+6/11/2023 0:10,Lavanya Nair,Cognizant,Very Low,6,300,5,Yes,Yes,No,support,low
+6/11/2023 0:10,Mitali Gupta,Capgemini,Medium,2,138,3,No,Yes,No,support,low
+6/11/2023 0:10,Jaydeep Singhania,Wipro,Very Low,6,260,4,No,Yes,No,support,low
+6/11/2023 0:10,Nisha Mehra,Capgemini,Low,2,132,3,No,Yes,No,support,low
+6/11/2023 0:10,Oorja Patel,Tech Mahindra,High,3,183,5,No,Yes,No,support,low
+6/11/2023 0:10,Mayank Gupta,Accenture,Very Low,6,250,4,No,Yes,No,support,low
+6/11/2023 0:10,,Accenture,Low,2,151,3,No,Yes,No,support,low
+6/11/2023 0:10,Omkar Verma,Oracle,Very Low,6,292,4,No,Yes,No,support,low
+6/11/2023 0:10,Pranav Singhania,IBM,Low,2,140,3,No,Yes,No,support,low
+6/11/2023 0:10,Qasim Ahmed,Cognizant,Very High,5,221,5,No,Yes,No,support,low
+6/11/2023 0:10,Rishikesh Verma,IBM,Medium,2,138,3,No,Yes,No,support,low
+6/11/2023 0:10,Satvik Gupta,Tech Mahindra,Low,2,132,3,No,Yes,No,technical,low
+6/11/2023 0:10,Ankit Choudhary,Oracle,Very Low,7,133,5,No,Yes,No,technical,low
+6/11/2023 0:10,Bhavya Singh,Wipro,Very Low,6,283,4,Yes,Yes,No,technical,low
+6/11/2023 0:11,Chetan Patel,Infosys,Medium,2,129,3,No,Yes,No,management,low
+6/11/2023 0:11,Devansh Gupta,TCS,High,4,249,5,No,Yes,No,IT,low
+6/11/2023 0:11,Eeshan Sharma,Infosys,High,5,257,5,No,Yes,No,IT,low
+6/11/2023 0:11,Jyoti Sharma,TCS,Very Low,6,245,4,No,Yes,No,IT,low
+6/11/2023 0:11,Yash Agarwal,Accenture,Medium,2,155,3,No,Yes,No,IT,low
+6/11/2023 0:11,Zafar Khan,Wipro,Very Low,6,256,4,No,Yes,No,IT,low
+6/11/2023 0:11,Lavanya Menon,Capgemini,Low,2,152,3,No,Yes,No,product_mng,low
+6/11/2023 0:11,Varun Kumar,Oracle,Very High,4,267,5,No,Yes,No,product_mng,low
+6/11/2023 0:11,Vikas Sharma,,Medium,2,151,3,No,Yes,No,product_mng,low
+6/11/2023 0:11,Gargi Mishra,TCS,High,4,239,5,No,Yes,No,product_mng,low
+6/11/2023 0:11,Harshita Sharma,Infosys,Very Low,6,306,4,No,Yes,No,IT,low
+6/11/2023 0:11,Qureshi Begum,Cognizant,Medium,4,215,3,No,No,No,sales,low
+6/11/2023 0:11,Sahil Singh,Accenture,Very High,2,202,3,No,No,No,sales,low
+6/11/2023 0:11,Tushar Dubey,Oracle,Medium,5,193,3,No,No,No,sales,low
+6/11/2023 0:11,Jaya Nair,Capgemini,High,5,247,3,No,No,No,sales,low
+6/11/2023 0:11,Kavya Reddy,Tech Mahindra,Medium,3,214,2,No,No,No,sales,low
+6/11/2023 0:11,Pooja Kulkarni,Accenture,Low,3,206,4,No,No,No,sales,low
+6/11/2023 0:11,Jatin Sharma,IBM,Medium,2,176,2,No,No,No,sales,low
+6/11/2023 0:11,Kunal Khanna,IBM,Very High,5,136,4,No,No,No,sales,low
+6/11/2023 0:11,Lalit Verma,Oracle,Medium,6,127,3,No,No,No,sales,low
+6/11/2023 0:11,Mohit Sharma,Cognizant,High,4,268,3,No,No,No,sales,low
+6/11/2023 0:11,Naman Gupta,Wipro,Medium,4,258,3,No,No,No,sales,medium
+6/11/2023 0:11,Omkar Deshmukh,Tech Mahindra,Low,2,136,3,No,No,No,sales,medium
+6/11/2023 0:11,Prashant Yadav,Infosys,Medium,5,255,6,No,No,No,accounting,medium
+6/11/2023 0:11,Qasim Ali,Cognizant,High,3,218,3,No,No,No,accounting,medium
+6/11/2023 0:12,Rajat Kapoor,Capgemini,Medium,3,268,4,No,No,No,accounting,medium
+6/11/2023 0:12,Oshin Chauhan,Tech Mahindra,Very High,3,224,2,No,No,No,hr,medium
+6/11/2023 0:12,Trisha Singh,TCS,Very High,3,231,3,No,No,No,hr,medium
+6/11/2023 0:12,Ishaan Malhotra,Infosys,Medium,6,191,6,No,No,No,hr,medium
+6/11/2023 0:12,Uma Iyer,Oracle,Very High,4,165,5,No,No,No,hr,medium
+6/11/2023 0:12,Ekansh Gupta,TCS,Medium,4,252,3,No,No,No,technical,medium
+6/11/2023 0:12,Farhan Khan,Wipro,High,5,266,2,No,No,No,technical,medium
+6/11/2023 0:12,Gaurav Singh,Oracle,Very High,5,248,3,No,No,No,technical,medium
+6/11/2023 0:12,Harsh Joshi,TCS,High,4,144,4,No,No,No,technical,high
+6/11/2023 0:12,Yamini Singh,Capgemini,Very High,4,174,3,No,No,No,technical,low
+6/11/2023 0:15,Hiral Shah,Oracle,Very High,4,208,3,No,No,No,technical,medium
+6/11/2023 0:15,Ishita Verma,Cognizant,High,3,267,3,No,No,No,technical,low
+6/11/2023 0:15,Chirag Patel,Capgemini,Very High,4,262,4,No,No,No,technical,low
+6/11/2023 0:15,Dinesh Sharma,IBM,Very High,3,235,3,No,No,No,support,low
+6/11/2023 0:15,Lavanya Choudhary,Cognizant,High,2,160,4,No,No,No,support,low
+6/11/2023 0:15,Ajay Kumar,Tech Mahindra,Medium,4,267,4,No,No,No,support,low
+6/11/2023 0:15,Brijesh Singh,Infosys,High,5,175,4,No,No,No,support,low
+6/11/2023 0:15,Simran Gupta,TCS,Very High,4,224,2,No,No,No,support,low
+6/11/2023 0:15,Ishan Sharma,Tech Mahindra,High,4,177,2,No,No,No,support,low
+6/11/2023 0:15,Jatin Mehta,Wipro,Very Low,6,191,4,No,No,No,support,low
+6/11/2023 0:15,Mansi Reddy,Capgemini,High,3,138,3,No,No,No,support,low
+6/11/2023 0:15,Bharat Gupta,Accenture,Medium,3,218,2,Yes,No,No,support,low
+6/11/2023 0:16,Chetan Patel,Accenture,Medium,3,179,2,Yes,No,No,support,low
+6/11/2023 0:16,Tanya Shah,IBM,High,3,241,3,No,No,No,support,low
+6/11/2023 0:16,Rohan Sharma,Oracle,Very High,4,240,3,No,No,No,technical,low
+6/11/2023 0:16,Sameer Gupta,Oracle,High,3,202,4,No,No,No,technical,low
+6/11/2023 0:16,Taranjeet Singh,IBM,Low,6,260,3,No,No,No,technical,low
+6/11/2023 0:16,Utkarsh Gupta,Tech Mahindra,Very High,3,196,3,No,No,No,management,low
+6/11/2023 0:16,janvi Menon,Accenture,Medium,2,176,3,Yes,No,No,IT,low
+6/11/2023 0:16,Vani Menon,Cognizant,Very High,2,140,3,No,No,No,IT,low
+6/11/2023 0:16,Om Prakash,Capgemini,Very High,3,242,2,No,No,No,IT,low
+6/11/2023 0:16,Priyal surve,Cognizant,Medium,3,279,4,No,No,No,IT,low
+6/11/2023 0:16,Devyani Sahur,Tech Mahindra,Medium,4,202,3,No,No,No,IT,medium
+6/11/2023 0:16,Karan Gupta,Tech Mahindra,Medium,5,228,3,No,No,No,product_mng,medium
+6/11/2023 0:16,janvi gupta,Accenture,High,4,171,3,No,No,No,product_mng,medium
+6/11/2023 0:16,Rakulpreet,IBM,High,4,153,3,No,No,No,product_mng,medium
+6/11/2023 0:16,Surabhi Sharma,Oracle,Medium,3,165,3,Yes,No,No,product_mng,medium
+6/11/2023 0:16,Kalyani Joshi,TCS,Very High,3,182,3,No,No,No,IT,medium
+6/11/2023 0:16,Prateek Verma,Infosys,Medium,5,239,5,No,No,No,RandD,medium
+6/11/2023 0:16,Qaisar Ali,Capgemini,Very High,5,231,2,No,No,No,RandD,medium
+6/11/2023 0:16,Rutuja Surve,Infosys,High,4,255,3,No,No,No,RandD,medium
+6/11/2023 0:16,Sagar Patel,TCS,High,4,237,2,Yes,No,No,RandD,medium
+6/11/2023 0:16,Tarun Sharma,TCS,High,3,251,2,No,No,No,RandD,medium
+6/11/2023 0:16,Uday Kapoor,Wipro,High,4,178,2,No,No,No,marketing,medium
+6/11/2023 0:16,Nilam Choudhary,Tech Mahindra,Very High,4,148,3,No,No,No,sales,high
+6/11/2023 0:16,Yash Kumar,Accenture,High,4,240,4,No,No,No,accounting,low
+6/11/2023 0:16,Jui Shah,Oracle,High,3,269,3,No,No,No,support,medium
+6/11/2023 0:16,Akshay Tiwari,Oracle,Very High,4,147,3,No,No,No,technical,medium
+6/11/2023 0:16,Dilpreet Singh,Cognizant,Very Low,3,198,5,No,No,No,management,medium
+6/11/2023 0:16,Isha Gupta,Wipro,Very High,5,143,3,No,No,No,marketing,medium
+6/11/2023 0:16,Druvi Patel,Capgemini,Very High,3,238,2,No,No,No,marketing,low
+6/11/2023 0:16,Eklavya Mishra,Accenture,High,4,213,4,No,No,No,marketing,low
+6/11/2023 0:16,Farhan Ahmed,IBM,Medium,3,226,3,Yes,No,No,sales,low
+6/11/2023 0:16,Chavi Sharma,IBM,Very High,3,169,2,Yes,No,No,sales,low
+6/11/2023 0:16,Aliya Singh,Cognizant,Very High,4,238,2,No,No,No,sales,low
+6/11/2023 0:16,Ishaan Kapoor,Wipro,Very High,4,202,3,No,No,No,sales,low
+6/11/2023 0:16,Jai Sharma,Tech Mahindra,Medium,2,205,6,Yes,No,No,sales,low
+6/11/2023 0:16,Kunjal Singh,Tech Mahindra,Medium,3,111,4,No,No,No,sales,low
+6/11/2023 0:16,Lalit Singh,Accenture,Medium,4,104,3,No,No,No,sales,low
+6/11/2023 0:16,Sakshi Choudhary,Oracle,Medium,3,212,3,No,No,No,sales,low
+6/11/2023 0:16,nilam Singh,IBM,High,4,236,4,No,No,No,sales,low
+6/11/2023 0:16,Om Prakash,Cognizant,High,5,245,2,Yes,No,No,sales,low
+6/11/2023 0:16,Pranav Gupta,TCS,Very High,4,267,4,No,No,No,sales,low
+6/11/2023 0:16,ikra Ali,Wipro,High,5,106,5,No,No,No,sales,low
+6/11/2023 0:16,babita chakruvarti,Infosys,Very High,5,198,3,No,No,No,sales,low
+6/11/2023 0:16,Sameer Singh,Oracle,Low,6,239,3,No,No,No,sales,low
+6/11/2023 0:16,Tushar Sharma,Capgemini,Very Low,5,220,3,No,No,No,sales,low
+6/11/2023 0:16,Utkarsh Singh,TCS,High,5,224,3,No,No,No,sales,low
+6/11/2023 0:16,Vipul Kumar,IBM,Very High,3,100,3,No,No,No,sales,low
+6/11/2023 0:16,Ishanvi Sharma,Wipro,Very Low,4,244,5,No,No,No,sales,low
+6/11/2023 0:16,Zaid Ahmed,Capgemini,Medium,4,139,3,No,No,No,sales,low
+6/11/2023 0:16,Aanya Desai,Accenture,Medium,2,152,2,No,No,No,accounting,medium
+6/11/2023 0:16,Advait Kapoor,Tech Mahindra,Very High,4,208,3,No,No,No,accounting,medium
+6/11/2023 0:16,Ahana Patel,Accenture,High,5,205,3,No,No,No,accounting,medium
+6/11/2023 0:16,Aishani Rao,Wipro,High,2,194,6,No,No,No,hr,medium
+6/11/2023 0:17,Akash Sharma,IBM,Very Low,3,209,5,No,No,No,hr,medium
+6/11/2023 0:17,Alisha Gupta,Accenture,Medium,3,212,3,No,No,No,hr,medium
+6/11/2023 0:17,Amara Choudhury,Oracle,Medium,2,151,3,No,No,No,hr,medium
+6/11/2023 0:17,Amaya Iyer,IBM,Medium,4,282,6,No,No,No,technical,medium
+6/11/2023 0:17,Anika Reddy,Cognizant,Very High,4,256,3,No,No,No,technical,medium
+6/11/2023 0:17,Arnav Kumar,Infosys,Very High,2,185,3,Yes,No,No,technical,medium
+6/11/2023 0:17,Arya Bhatia,TCS,High,5,132,3,No,No,No,technical,medium
+6/11/2023 0:17,Ashwin Nair,TCS,High,5,233,3,No,No,No,technical,medium
+6/11/2023 0:17,Avani Joshi,Infosys,Medium,4,215,2,No,No,No,technical,high
+6/11/2023 0:18,Ayush Verma,Tech Mahindra,Very High,3,220,4,No,No,No,technical,low
+6/11/2023 0:18,Chetana Malhotra,Capgemini,Very Low,6,222,3,No,No,No,technical,medium
+6/11/2023 0:18,Darshan Shah,TCS,Very Low,5,182,2,No,No,No,technical,medium
+6/11/2023 0:18,Devika Singh,Infosys,Very Low,5,258,4,No,No,No,technical,medium
+6/11/2023 0:18,Disha Agrawal,Wipro,High,3,209,2,No,No,No,technical,medium
+6/11/2023 0:18,Ekansh Agarwal,TCS,Very High,3,242,2,No,No,No,support,low
+6/11/2023 0:18,Esha Bhandari,Capgemini,Medium,4,155,3,Yes,No,No,support,low
+6/11/2023 0:18,Gauri Mehta,Accenture,High,5,104,4,No,No,No,support,low
+6/11/2023 0:18,Harshita Rana,Accenture,Very High,4,201,3,Yes,No,No,support,low
+6/11/2023 0:19,Ira Sharma,Oracle,Very High,5,143,3,No,No,No,support,low
+6/11/2023 0:19,Ishanvi Chauhan,IBM,Very High,5,161,3,Yes,No,No,support,low
+6/11/2023 0:19,Jiya Bansal,Cognizant,Medium,4,200,2,No,No,No,support,low
+6/11/2023 0:19,Kavya Khanna,Infosys,Very High,4,255,2,No,No,No,support,low
+6/11/2023 0:19,Kiara Mishra,Capgemini,Low,5,227,2,No,No,No,support,low
+6/11/2023 0:19,Manan Patel,Capgemini,Medium,3,270,6,No,No,No,support,low
+6/11/2023 0:19,Navya Das,Capgemini,High,5,230,3,No,No,No,support,low
+6/11/2023 0:19,Niyati Sharma,Wipro,High,5,270,3,Yes,No,No,technical,low
+6/11/2023 0:19,Omkar Saxena,Tech Mahindra,Very High,4,200,3,No,No,No,technical,low
+6/11/2023 0:19,Prisha Kapoor,TCS,Medium,5,207,3,No,No,No,technical,low
+6/11/2023 0:19,Rishabh Shah,Wipro,High,5,182,3,No,No,No,management,low
+6/11/2023 0:19,Saisha Gupta,Tech Mahindra,High,4,234,3,No,No,No,IT,low
+6/11/2023 0:19,Samaira Sethi,Accenture,High,4,237,2,No,No,No,IT,low
+6/11/2023 0:19,Shivansh Malik,Oracle,Very High,4,187,2,Yes,No,No,IT,low
+6/11/2023 0:19,Suhani Patel,IBM,High,3,257,6,No,No,No,IT,low
+6/11/2023 0:19,Tanay Chawla,Cognizant,Medium,2,194,2,No,No,No,IT,low
+6/11/2023 0:19,Trisha Mohan,Infosys,High,4,162,3,No,No,No,product_mng,low
+6/11/2023 0:19,Vanya Singh,Cognizant,High,4,148,2,No,No,No,product_mng,medium
+6/11/2023 0:19,Yashvi Rastogi,Tech Mahindra,Medium,4,210,2,No,No,No,product_mng,medium
+6/11/2023 0:19,Yuvraj Menon,Infosys,Medium,3,213,2,Yes,No,No,product_mng,medium
+6/11/2023 0:19,Zara Agnihotri,TCS,High,4,189,2,Yes,No,No,IT,medium
+6/11/2023 0:19,Aarush Kapoor,Accenture,Very High,4,185,2,No,No,No,RandD,medium
+6/11/2023 0:19,Aarna Reddy,Oracle,High,3,186,2,Yes,No,No,RandD,medium
+6/11/2023 0:19,Aditi Jain,IBM,High,3,128,3,No,No,No,RandD,medium
+6/11/2023 0:19,Ahaan Mehta,Cognizant,Medium,4,268,3,No,No,No,RandD,medium
+6/11/2023 0:19,Akshara Rao,Infosys,High,3,213,3,Yes,No,No,RandD,medium
+6/11/2023 0:19,Amrita Sharma,Capgemini,High,4,142,2,No,No,No,marketing,medium
+6/11/2023 0:19,Ananya Gupta,Oracle,Medium,2,199,2,No,No,No,sales,medium
+6/11/2023 0:19,Anushka Verma,Wipro,High,4,157,2,No,No,No,accounting,medium
+6/11/2023 0:19,Atharv Patel,Tech Mahindra,High,5,172,2,Yes,No,No,support,high
+6/11/2023 0:19,Avishi Singh,Accenture,High,3,176,3,Yes,No,No,technical,low
+6/11/2023 0:19,Avyaan Sharma,Oracle,Low,2,183,2,No,No,No,management,medium
+6/11/2023 0:19,Ayanna Kapoor,Oracle,Very High,4,270,2,No,No,No,marketing,medium
+6/11/2023 0:19,Bhavya Patel,TCS,Very High,5,157,4,Yes,No,No,marketing,medium
+6/11/2023 0:19,Divya Sharma,Wipro,Very High,4,185,3,No,No,No,marketing,medium
+6/11/2023 0:19,Eeshan Gupta,Accenture,Very High,3,167,3,No,No,No,sales,low
+6/11/2023 0:19,Grishma Joshi,Wipro,Low,5,226,5,No,No,No,sales,low
+6/11/2023 0:19,Hansika Malhotra,Capgemini,High,3,223,4,No,No,No,sales,low
+6/11/2023 0:19,Ishaan Srinivasan,Capgemini,High,3,257,3,No,No,No,sales,low
+6/11/2023 0:19,Ishika Chauhan,TCS,High,4,143,3,No,No,No,sales,low
+6/11/2023 0:19,Jia Bajaj,Wipro,Very High,4,265,6,No,Yes,No,sales,low
+6/11/2023 0:19,Kashvi Khanna,Tech Mahindra,Very Low,6,250,4,No,Yes,No,sales,low
+6/11/2023 0:19,Krishiv Mehra,Wipro,Very High,5,251,6,No,Yes,No,sales,low
+6/11/2023 0:19,Lavanya Singh,Oracle,High,4,246,5,No,Yes,No,sales,low
+6/11/2023 0:19,Maanvi Kapoor,Infosys,High,5,275,5,No,Yes,No,sales,low
+6/11/2023 0:19,Mannat Das,Capgemini,Very High,5,240,5,No,Yes,No,sales,low
+6/11/2023 0:19,Muskaan Agarwal,TCS,High,5,245,5,No,Yes,No,sales,low
+6/11/2023 0:19,Nandini Iyer,Tech Mahindra,Medium,4,254,4,No,Yes,No,sales,low
+6/11/2023 0:19,Navin Rana,Tech Mahindra,High,5,241,5,No,Yes,No,sales,low
+6/11/2023 0:19,Niharika Saxena,TCS,Very Low,6,257,4,No,Yes,No,sales,low
+6/11/2023 0:19,Parth Shah,Oracle,Very High,4,246,5,No,Yes,No,sales,low
+6/11/2023 0:19,Pia Sethi,IBM,Very High,4,233,5,No,Yes,No,sales,low
+6/11/2023 0:19,Preeti Malik,Cognizant,Very Low,6,218,4,No,Yes,No,accounting,low
+6/11/2023 0:19,Ragini Gupta,Infosys,Very High,4,262,6,No,Yes,No,accounting,medium
+6/11/2023 0:19,Rishika Patel,Capgemini,Medium,2,138,3,No,Yes,No,accounting,medium
+6/11/2023 0:19,Saanvi Choudhury,Wipro,Medium,2,142,3,No,Yes,No,hr,medium
+6/11/2023 0:20,Samarth Bhatia,TCS,Very High,5,233,5,No,Yes,No,hr,medium
+6/11/2023 0:20,Shanaya Das,Accenture,Medium,2,155,3,No,Yes,No,hr,medium
+6/11/2023 0:20,Siya Rastogi,Oracle,Very High,4,229,6,No,Yes,No,hr,medium
+6/11/2023 0:20,Suhana Menon,Accenture,Very Low,6,264,4,No,Yes,No,technical,medium
+6/11/2023 0:20,Tanya Agnihotri,IBM,Medium,3,199,4,No,Yes,No,technical,medium
+6/11/2023 0:20,Trisha Mehta,Cognizant,Very High,4,223,5,No,Yes,No,technical,medium
+6/11/2023 0:20,Vivaan Mohan,Cognizant,Very Low,6,268,4,No,Yes,No,technical,medium
+6/11/2023 0:20,Yashika Chawla,Infosys,Very Low,6,287,4,No,Yes,No,technical,medium
+6/11/2023 0:20,Yuvika Kapoor,Infosys,Very High,5,257,5,No,Yes,No,technical,medium
+6/11/2023 0:20,Zaina Seth,TCS,Low,2,143,3,No,Yes,No,technical,high
+6/11/2023 0:20,Zoya Mishra,Capgemini,Medium,2,130,3,No,Yes,No,technical,low
+6/11/2023 0:20,Geeta Sharma,Accenture,Medium,2,136,3,No,Yes,No,technical,medium
+6/11/2023 0:20,Arjun Singh,Accenture,High,4,261,5,No,Yes,No,technical,medium
+6/11/2023 0:20,Rohit Sharma,IBM,Medium,3,180,4,No,Yes,No,technical,medium
+6/11/2023 0:20,Ankit Patel,IBM,Low,2,126,3,No,Yes,No,support,medium
+6/11/2023 0:20,Rajesh Gupta,Cognizant,Medium,2,127,3,Yes,Yes,No,support,low
+6/11/2023 0:20,Aarti Sharma,TCS,Very High,5,195,6,No,Yes,No,support,low
+6/11/2023 0:20,Suresh Kumar,Capgemini,Medium,2,160,3,No,Yes,No,support,low
+6/11/2023 0:20,Karthik Reddy,TCS,Medium,2,150,3,No,Yes,No,support,low
+6/11/2023 0:20,Alok Mishra,Wipro,Very High,4,264,6,No,Yes,No,support,low
+6/11/2023 0:20,Chitra Iyer,Tech Mahindra,Very Low,6,309,4,No,Yes,No,support,low
+6/11/2023 0:20,Amit Choudhary,Accenture,Medium,2,135,3,No,Yes,No,support,low
+6/11/2023 0:20,Vivek Rajput,Oracle,Very Low,6,261,4,No,Yes,No,support,low
+6/11/2023 0:20,Bhavana Patel,Tech Mahindra,Medium,2,160,3,No,Yes,No,support,low
+6/11/2023 0:20,Sunil Sharma,Tech Mahindra,High,4,237,5,No,Yes,No,support,low
+6/11/2023 0:20,Deepika Singhania,Infosys,Medium,2,136,3,No,Yes,No,technical,low
+6/11/2023 0:20,Aditya Gupta,Oracle,Medium,2,139,3,No,Yes,No,technical,low
+6/11/2023 0:20,Esha Verma,IBM,Low,2,151,4,No,Yes,No,technical,low
+6/11/2023 0:20,Amit Singh,IBM,High,5,229,5,No,Yes,No,management,low
+6/11/2023 0:20,Anand Kumar,Cognizant,Very High,5,245,5,No,Yes,No,IT,low
+6/11/2023 0:20,Falguni Shah,Wipro,Low,2,127,3,No,Yes,No,IT,low
+6/11/2023 0:20,Gauri Gupta,Tech Mahindra,Very Low,6,283,5,No,Yes,No,IT,low
+6/11/2023 0:20,Ankit Shah,Oracle,Medium,2,143,3,No,Yes,No,IT,low
+6/11/2023 0:20,Harshita Singh,TCS,Very Low,5,298,4,No,Yes,No,IT,low
+6/11/2023 0:20,Ishaani Shah,Capgemini,Low,2,159,3,No,Yes,No,product_mng,low
+6/11/2023 0:21,Anuj Mehta,Capgemini,Very High,5,239,5,No,Yes,No,product_mng,low
+6/11/2023 0:21,Arjun Sharma,Infosys,Very High,4,226,5,No,Yes,No,product_mng,medium
+6/11/2023 0:21,Ashish Patel,TCS,Very High,5,248,5,No,Yes,No,product_mng,medium
+6/11/2023 0:21,Atul Mishra,Wipro,Very Low,6,286,4,No,Yes,No,IT,medium
+6/11/2023 0:21,Deepak Joshi,Wipro,Low,2,145,3,No,Yes,No,RandD,medium
+6/11/2023 0:21,Jhanvi Sharma,IBM,Very Low,7,254,4,Yes,Yes,No,RandD,medium
+6/11/2023 0:21,Jay Patel,Infosys,Medium,2,127,3,No,Yes,No,RandD,medium
+6/11/2023 0:21,Xena Shah,Capgemini,Very High,5,223,5,No,Yes,No,RandD,medium
+6/11/2023 0:21,Yamini Gupta,Cognizant,High,4,255,5,No,Yes,No,RandD,medium
+6/11/2023 0:21,Zoya Singh,Tech Mahindra,Medium,2,136,3,No,Yes,No,marketing,medium
+6/11/2023 0:21,Gaurav Kumar,Tech Mahindra,Low,2,137,3,No,Yes,No,sales,medium
+6/11/2023 0:21,Akshay Patel,Accenture,Medium,2,135,3,No,Yes,No,accounting,medium
+6/11/2023 0:21,Kunal Shah,Infosys,Medium,2,137,3,No,Yes,No,support,medium
+6/11/2023 0:21,Manish Singh,IBM,High,3,255,5,No,Yes,No,technical,high
+6/11/2023 0:22,Vaishali Iyer,Cognizant,High,4,273,5,No,Yes,No,management,low
+6/11/2023 0:22,Warisha Gupta,Tech Mahindra,Very High,5,234,5,No,Yes,No,marketing,medium
+6/11/2023 0:22,Rajesh Gupta,Infosys,Low,2,152,3,No,Yes,No,marketing,medium
+6/11/2023 0:22,Rakesh Singh,TCS,Low,2,134,3,No,Yes,No,marketing,medium
+6/11/2023 0:22,Ravi Patel,Wipro,Very Low,6,292,4,No,Yes,No,sales,medium
+6/11/2023 0:22,Rohit Kumar,Tech Mahindra,Very High,5,245,5,No,Yes,No,sales,low
+6/11/2023 0:22,Sachin Sharma,Accenture,Medium,2,159,3,No,Yes,No,sales,low
+6/11/2023 0:22,Sahil Gupta,IBM,Very Low,6,260,4,No,Yes,No,sales,low
+6/11/2023 0:22,Akash kunbhar,IBM,Medium,2,149,3,No,Yes,No,sales,low
+6/11/2023 0:22,Vineet Gupta,Cognizant,Very High,5,266,5,No,Yes,No,sales,low
+6/11/2023 0:22,Pooja Verma,Infosys,Medium,2,149,3,No,Yes,No,sales,low
+6/11/2023 0:22,Qiana Khan,Capgemini,Very High,5,242,5,No,Yes,No,sales,low
+6/11/2023 0:22,Zuber Patel,TCS,Medium,2,134,3,No,Yes,No,sales,low
+6/11/2023 0:22,Urmi Patel,Wipro,Very Low,5,271,4,No,Yes,No,sales,low
+6/11/2023 0:22,Vishal Shah,Capgemini,Very Low,6,275,4,No,Yes,No,sales,low
+6/11/2023 0:22,Yogesh Kumar,Accenture,High,5,227,5,No,Yes,No,sales,low
+6/11/2023 0:22,Umesh Kumar,Accenture,Very Low,7,277,5,No,Yes,No,sales,low
+6/11/2023 0:22,Kavya Verma,Oracle,Low,2,151,3,No,Yes,No,sales,low
+6/11/2023 0:22,Leena Patel,Cognizant,Very Low,6,274,4,No,Yes,No,sales,low
+6/11/2023 0:22,Meena Iyer,Infosys,High,4,242,6,No,Yes,No,sales,low
+6/11/2023 0:22,Nandini Gupta,,Medium,2,143,3,Yes,Yes,No,sales,low
+6/11/2023 0:22,Ojasvi Singh,TCS,Low,2,145,3,No,Yes,No,sales,low
+6/11/2023 0:22,Abhishek Sharma,Wipro,Low,5,172,2,No,Yes,No,sales,low
+6/11/2023 0:22,Ajay Patel,TCS,Low,2,135,3,No,Yes,No,accounting,low
+6/11/2023 0:23,Akshay Desai,Wipro,Very Low,4,192,4,No,Yes,No,accounting,low
+6/11/2023 0:23,Amitabh Gupta,Capgemini,Very Low,7,276,4,No,Yes,No,accounting,low
+6/11/2023 0:23,Trisha Sharma,Infosys,High,4,206,4,No,Yes,No,hr,medium
+6/11/2023 0:23,Aniket Shah,Capgemini,Medium,4,281,6,No,Yes,No,hr,medium
+6/11/2023 0:23,Anish Deshpande,Accenture,Low,2,151,3,No,Yes,No,hr,medium
+6/11/2023 0:23,Arvind Jain,Wipro,Very Low,6,244,4,No,Yes,No,hr,medium
+6/11/2023 0:23,Rashi Shah,Oracle,Very Low,6,309,4,No,Yes,No,technical,medium
+6/11/2023 0:23,Sakshi Singhania,IBM,Very High,5,218,5,No,Yes,No,technical,medium
+6/11/2023 0:23,Ashok Kumar,Oracle,Very High,4,263,6,No,Yes,No,technical,medium
+6/11/2023 0:23,Atul Chavan,Cognizant,Very Low,6,244,4,No,Yes,No,technical,medium
+6/11/2023 0:23,Deepak Joshi,Tech Mahindra,Medium,7,263,4,No,Yes,No,technical,medium
+6/11/2023 0:23,Gaurav Patel,Infosys,Medium,2,143,3,No,Yes,No,technical,medium
+6/11/2023 0:23,Harish Iyer,Capgemini,Very High,2,181,5,No,Yes,No,technical,medium
+6/11/2023 0:23,Ishan Sharma,TCS,Very High,5,265,5,No,Yes,No,technical,medium
+6/11/2023 0:23,Jayesh Pandit,TCS,High,5,161,5,No,Yes,No,technical,high
+6/11/2023 0:23,Aarohi Verma,Wipro,Very Low,7,282,5,No,Yes,No,technical,low
+6/11/2023 0:23,Kunal Shah,Accenture,Medium,2,155,3,No,Yes,No,technical,medium
+6/11/2023 0:23,Mayank Agarwal,Oracle,High,4,217,6,No,Yes,No,support,medium
+6/11/2023 0:23,Mohit Gupta,IBM,Very Low,6,289,5,No,Yes,No,support,medium
+6/11/2023 0:23,Nishant Singh,Cognizant,Very High,4,259,5,No,Yes,No,support,medium
+6/11/2023 0:23,Pankaj Patel,Infosys,Low,2,158,3,No,Yes,No,support,low
+6/11/2023 0:23,Pradeep Kumar,Capgemini,Low,2,158,3,No,Yes,No,support,low
+6/11/2023 0:23,Rahul Desai,Accenture,Low,2,155,3,No,Yes,No,support,low
+6/11/2023 0:23,Rajat Shah,Oracle,Medium,2,146,3,No,Yes,No,support,low
+6/11/2023 0:24,Charu Iyer,IBM,Medium,2,164,5,No,Yes,No,support,low
+6/11/2023 0:24,Rajesh Gupta,Cognizant,Very Low,6,259,4,No,Yes,No,support,low
+6/11/2023 0:24,Rakesh Singh,Tech Mahindra,Very Low,6,293,4,No,Yes,No,support,low
+6/11/2023 0:24,Divya Singhania,Infosys,Very High,5,275,5,No,Yes,No,support,low
+6/11/2023 0:24,Eshaan Gupta,TCS,Very High,5,219,6,Yes,Yes,No,technical,low
+6/11/2023 0:24,Sachin Sharma,Wipro,Very Low,6,247,4,No,Yes,No,technical,low
+6/11/2023 0:24,Sameer Patel,Wipro,Very Low,7,309,4,No,Yes,No,technical,low
+6/11/2023 0:24,Sanjay Kumar,Capgemini,Medium,2,151,3,No,Yes,No,management,low
+6/11/2023 0:24,Sharad Deshmukh,Wipro,Low,2,129,3,No,Yes,No,IT,low
+6/11/2023 0:24,Shashank Shah,Tech Mahindra,Very High,4,274,5,No,Yes,No,IT,low
+6/11/2023 0:24,Ria Shah,Oracle,High,4,233,5,No,Yes,No,IT,low
+6/11/2023 0:24,Priyanka Singh,Oracle,Very Low,7,289,4,No,Yes,No,IT,low
+6/11/2023 0:24,Siddharth Singh,Tech Mahindra,High,4,239,6,No,Yes,No,IT,low
+6/11/2023 0:24,Fiza Shah,Cognizant,High,5,221,5,No,Yes,No,product_mng,low
+6/11/2023 0:24,Gargi Singh,Infosys,Medium,2,150,3,No,Yes,No,product_mng,low
+6/11/2023 0:24,Sumit Jain,Infosys,Medium,2,144,3,Yes,Yes,No,product_mng,low
+6/11/2023 0:24,Sunil Patel,TCS,Very Low,7,289,4,No,Yes,No,product_mng,low
+6/11/2023 0:24,Meher Verma,Wipro,Very Low,6,301,5,No,Yes,No,IT,medium
+6/11/2023 0:24,Naina Iyer,Tech Mahindra,Medium,4,205,3,No,No,No,sales,low
+6/11/2023 0:24,Tarun Sharma,Accenture,Very High,3,228,3,No,No,No,sales,medium
+6/11/2023 0:24,Lavanya Patel,Capgemini,Very Low,4,228,5,No,No,No,sales,medium
+6/11/2023 0:24,Uday Deshpande,IBM,High,5,227,3,Yes,No,No,sales,medium
+6/11/2023 0:24,Harleen Kaur,Cognizant,Medium,3,156,3,No,No,No,sales,medium
+6/11/2023 0:24,Uday Deshpande,Infosys,High,5,177,2,No,No,No,sales,low
+6/11/2023 0:25,Saanvi Singhania,Capgemini,Medium,6,188,5,Yes,No,No,sales,low
+6/11/2023 0:25,Tania Sharma,TCS,Medium,3,185,4,No,No,No,sales,low
+6/11/2023 0:25,Usha Patel,Wipro,Very High,3,153,4,No,No,No,accounting,low
+6/11/2023 0:25,Rajiv Gupta,Tech Mahindra,Very High,4,174,3,No,No,No,accounting,low
+6/11/2023 0:25,Manish Singh,Accenture,Medium,4,209,3,No,No,No,accounting,low
+6/11/2023 0:25,Rohit Sharma,HCL Technologies,Very High,3,251,2,Yes,No,No,hr,low
+6/11/2023 0:25,Qudsia Khan,IBM,Medium,3,153,3,Yes,No,No,hr,low
+6/11/2023 0:25,Nikhil Kumar,Infosys,High,5,167,3,No,No,No,hr,low
+6/11/2023 0:25,Vani Iyer,Infosys,Very High,3,151,2,No,No,No,technical,low
+6/11/2023 0:25,Wafa Gupta,TCS,High,3,158,2,No,No,No,technical,low
+6/11/2023 0:25,Ankit Patel,Cognizant,Very High,3,210,2,No,No,No,hr,low
+6/11/2023 0:25,Pranav Shah,Wipro,Very High,3,116,5,No,No,No,technical,low
+6/11/2023 0:25,Rakesh Singh,Tech Mahindra,Very High,5,178,2,No,No,No,technical,low
+6/11/2023 0:25,Xyla Shah,Capgemini,Very High,4,155,3,Yes,No,No,technical,low
+6/11/2023 0:27,Yashika Singh,Wipro,High,3,151,2,No,No,No,technical,low
+6/11/2023 0:27,Zara Khan,IBM,Medium,4,216,2,Yes,No,No,technical,low
+6/11/2023 0:27,Aakanksha Sharma,Cognizant,Very High,5,179,3,No,No,No,technical,low
+6/11/2023 0:27,Karan Mehta,Infosys,High,4,135,4,No,No,No,technical,low
+6/11/2023 0:27,Bhavika Patel,Tata Consultancy Services,Very High,4,232,4,No,No,No,technical,low
+6/11/2023 0:27,Saurabh Gupta,TCS,High,4,168,3,No,No,No,technical,low
+6/11/2023 0:27,Rahul Desai,HCL Technologies,Medium,6,171,5,Yes,No,No,support,medium
+6/11/2023 0:27,Chahat Iyer,Tech Mahindra,Medium,5,258,2,No,No,No,support,medium
+6/11/2023 0:27,Abhishek Sharma,Accenture,High,3,221,2,No,No,No,support,medium
+6/11/2023 0:27,Ashish Patel,Oracle,Low,5,97,3,No,No,No,support,medium
+6/11/2023 0:27,Devika Patel,HCL Technologies,Very High,3,164,3,No,No,No,support,medium
+6/11/2023 0:27,Vineet Gupta,Cognizant,Very High,4,237,3,No,No,No,support,medium
+6/11/2023 0:27,Eesha Singhania,Infosys,Medium,5,161,2,No,No,No,support,medium
+6/11/2023 0:28,Farah Gupta,Capgemini,Very High,4,134,2,Yes,No,No,support,medium
+6/11/2023 0:28,Vikram Singh,TCS,Very High,4,188,3,No,No,No,support,medium
+6/11/2023 0:28,Aanya Shah,Cognizant,Medium,4,181,3,No,No,No,support,medium
+6/11/2023 0:28,Advait Sharma,Wipro,Medium,4,160,2,No,No,No,support,medium
+6/11/2023 0:28,Ahana Kapoor,Tech Mahindra,Low,6,197,5,Yes,No,No,technical,medium
+6/11/2023 0:28,Aishani Menon,Oracle,High,3,145,3,No,No,No,technical,high
+6/11/2023 0:28,Akash Chauhan,IBM,Medium,5,221,2,No,No,No,technical,low
+6/11/2023 0:28,Alisha Nair,Cognizant,Very Low,6,260,5,No,No,No,management,medium
+6/11/2023 0:28,Amara Patel,Infosys,Very Low,3,99,5,Yes,No,No,IT,medium
+6/11/2023 0:28,Amaya Reddy,Tech Mahindra,Medium,3,243,3,No,No,No,IT,medium
+6/11/2023 0:28,Anika Iyer,Infosys,High,5,244,3,No,No,No,IT,medium
+6/11/2023 0:28,Arnav Singh,Wipro,Very High,4,179,4,No,No,No,IT,low
+6/11/2023 0:28,Arya Gupta,Tech Mahindra,Very High,4,146,6,Yes,No,No,IT,low
+6/11/2023 0:28,Ashwin Bhatia,Accenture,High,3,262,2,Yes,No,No,product_mng,low
+6/11/2023 0:28,Avani Verma,Oracle,Very High,4,174,2,No,No,No,product_mng,low
+6/11/2023 0:28,Ayush Malhotra,IBM,High,4,148,4,No,No,No,product_mng,low
+6/11/2023 0:28,Chetana Rao,Cognizant,Medium,5,235,3,No,No,No,product_mng,low
+6/11/2023 0:28,Darshan Joshi,,Very High,5,285,2,Yes,No,No,IT,low
+6/11/2023 0:28,Devika Sharma,Capgemini,Very High,4,143,3,No,No,No,RandD,low
+6/11/2023 0:28,Disha Agrawal,TCS,Very High,6,141,5,No,No,No,RandD,low
+6/11/2023 0:28,Ekansh Patel,Wipro,Very High,3,125,4,No,No,No,RandD,low
+6/11/2023 0:28,Esha Bansal,Tech Mahindra,Very High,4,232,3,No,No,No,RandD,low
+6/11/2023 0:28,Gauri Khanna,Accenture,Medium,3,172,2,No,No,No,RandD,low
+6/11/2023 0:28,Harshita Rastogi,Tata Consultancy Services,High,5,283,5,No,No,No,marketing,low
+6/11/2023 0:28,Ira Das,IBM,High,3,189,3,No,No,No,sales,low
+6/11/2023 0:28,Ishanvi Saxena,HCL,Medium,2,144,3,No,No,No,accounting,low
+6/11/2023 0:28,Jiya Kumar,Tech Mahindra,Medium,4,145,3,Yes,No,No,support,low
+6/11/2023 0:28,Kavya Mehta,Capgemini,Medium,3,200,3,No,No,No,technical,low
+6/11/2023 0:28,Kiara Sethi,Infosys,Very Low,3,264,4,No,No,No,management,low
+6/11/2023 0:28,Manan Agarwal,Wipro,Very High,3,215,3,No,No,No,marketing,low
+6/11/2023 0:28,Navya Bhandari,Tata Consultancy Services,Medium,4,272,3,No,No,No,marketing,low
+6/11/2023 0:28,Niyati Choudhury,Cognizant,High,5,142,3,No,No,No,marketing,low
+6/11/2023 0:28,Omkar Shah,Capgemini,High,5,240,2,No,No,No,sales,medium
+6/11/2023 0:28,Prisha Kapoor,IBM,Very High,4,168,2,No,No,No,sales,medium
+6/11/2023 0:28,Rishabh Nair,Cognizant,High,4,171,4,No,No,No,sales,medium
+6/11/2023 0:28,Saisha Singh,Infosys,Very High,3,159,2,No,No,No,sales,medium
+6/11/2023 0:28,Samaira Reddy,Capgemini,Very High,3,175,4,No,No,No,sales,medium
+6/11/2023 0:28,Shivansh Malik,TCS,High,4,244,3,No,No,No,sales,medium
+6/11/2023 0:28,Suhani Patel,Infosys,Very High,3,198,3,No,No,No,sales,medium
+6/11/2023 0:28,Tanay Chawla,Capgemini,High,5,151,3,No,No,No,sales,medium
+6/11/2023 0:28,Trisha Mohan,Wipro,Medium,2,188,4,No,No,No,sales,medium
+6/11/2023 0:28,Vanya Verma,Oracle,Very Low,3,199,2,No,No,No,sales,medium
+6/11/2023 0:28,Yashvi Sharma,Tech Mahindra,Medium,4,257,3,No,No,No,sales,medium
+6/11/2023 0:28,Yuvraj Menon,Tata Consultancy Services,Very Low,4,144,4,No,No,No,sales,medium
+6/11/2023 0:28,Zara Agnihotri,Infosys,Medium,4,275,3,No,No,No,sales,high
+6/11/2023 0:29,Aarush Kapoor,,Medium,3,243,3,No,No,No,sales,low
+6/11/2023 0:29,Aarna Menon,TCS,Very High,3,181,2,Yes,No,No,sales,medium
+6/11/2023 0:29,Aditi Jain,Wipro,Very High,5,172,3,No,No,No,sales,medium
+6/11/2023 0:29,Ahaan Gupta,Tech Mahindra,Very High,3,244,5,No,No,No,sales,medium
+6/11/2023 0:29,Akshara Iyer,Accenture,High,4,242,3,No,No,No,sales,medium
+6/11/2023 0:29,Amrita Chauhan,Oracle,Very High,3,249,2,No,No,No,sales,low
+6/11/2023 0:29,Ananya Verma,Tech Mahindra,Low,5,128,3,Yes,No,No,accounting,low
+6/11/2023 0:29,Anushka Patel,IBM,Medium,3,213,3,No,No,No,accounting,low
+6/11/2023 0:29,Atharv Singh,Infosys,Low,4,152,3,Yes,No,No,accounting,low
+6/11/2023 0:29,Avishi Bansal,Wipro,High,4,245,3,No,No,No,hr,low
+6/11/2023 0:29,Avyaan Sharma,Oracle,Medium,4,113,3,No,No,No,hr,low
+6/11/2023 0:29,Ayanna Khanna,HCL Technologies,Very Low,4,280,5,No,No,No,hr,low
+6/11/2023 0:29,Bhavya Das,HCL,High,3,273,3,Yes,No,No,hr,low
+6/11/2023 0:29,Divya Saxena,Cognizant,Medium,4,221,3,Yes,No,No,technical,low
+6/11/2023 0:29,Eeshan Malik,HCL,Medium,5,133,3,No,No,No,technical,low
+6/11/2023 0:29,Grishma Rana,Wipro,Medium,3,136,4,Yes,No,No,technical,low
+6/11/2023 0:29,Hansika Das,Oracle,Medium,4,243,3,Yes,No,No,technical,low
+6/11/2023 0:29,Ishaan Srinivasan,IBM,Very High,5,135,3,No,No,No,technical,low
+6/11/2023 0:29,Ishika Chauhan,Accenture,High,3,231,3,No,No,No,technical,low
+6/11/2023 0:29,Jia Patel,HCL,Very High,3,259,4,No,No,No,technical,low
+6/11/2023 0:29,Kashvi Kapoor,Tech Mahindra,High,3,238,2,No,No,No,technical,low
+6/11/2023 0:29,Krishiv Mehta,Infosys,High,3,210,3,No,No,No,technical,low
+6/11/2023 0:29,Lavanya Singh,Infosys,Medium,3,120,6,No,No,No,technical,low
