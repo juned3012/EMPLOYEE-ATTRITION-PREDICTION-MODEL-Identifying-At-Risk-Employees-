@@ -2,6 +2,17 @@
 
 Welcome to the **Employee Attrition Prediction Model** project repository. This project focuses on developing machine learning models to predict employee attrition using a dataset of employee-related features. Real-time data collected via Google Form enriches the models with current organizational data, enhancing their relevance and applicability.
 
+## Table of Contents
+- [Employee Attrition Prediction Model](#employee-attrition-prediction-model)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Key Features](#key-features)
+  - [Acknowledgments](#acknowledgments)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 ## Project Overview
 
 The project aims to identify employees at risk of leaving an organization using predictive modeling techniques. It utilizes a dataset comprising features such as number of projects, average monthly hours, job satisfaction level, and more. Various machine learning algorithms are implemented and compared to determine the most effective model for predicting attrition.
